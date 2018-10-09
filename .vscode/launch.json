@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneToOneDemoApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.application.relationships.OneToOneDemoApplication",
+            "args": "",
+            "projectName": "one-to-one-demo"
+        }
+    ]
+}
